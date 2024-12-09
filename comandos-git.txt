@@ -92,11 +92,11 @@ cria uma pasta com o clone dentro
 
 
 volta para o arquivo original, cancela as modificaçoes feitas
-git restore <nome-do-arquivo>
+--git restore <nome-do-arquivo>
 
 
 
-
+git comandos-git.txt
 
 
 
