@@ -1,1 +1,104 @@
-git config —global user.name “”
+
+
+
+
+---Iniciar um novo projeto com git
+
+
+--git init
+
+--Add os arquivos que estão prontos para serem comitados
+--git add <nome-arquivos>/ ou .
+
+
+--commit os arquivos que estão prontos para serem commitados
+--git commit -m ""
+
+
+commit no ultimo commit
+git commit --amend -m ""
+
+
+mostrar todos os ultimos commits 
+--git log
+
+
+mostra o que foi alterado na ramificação
+--git diff
+
+git branch -b <nome da nova branch>
+
+
+cria uma nova branch a partir da branch atual
+--git branch -b <nome-da--nova--branch>
+
+
+muda para esta branch
+--git checkout <nome-branch>
+
+listar e mostrar as branch e mostrar a branch atual (que estamos)
+--gi branch
+
+
+
+merge de ramificação (mescla a ramificação)
+--git merge 
+
+
+
+configura o user do github
+--git config --global user.name ""
+
+configura seu email do github
+--git config --global user.email ""
+
+
+
+mostrar todas as configurações que temos ja feito
+--git config --global --list 
+
+
+mostra todas as configurações que podemos fazer
+--git config  --list
+
+
+
+manda nossa alterações locis para o repositorio remoto, para cada branch
+--git remote add origin <nome-da-branch>
+
+
+
+manda nossas alteraçoes locais para o repositorio remoto,
+--git push
+--push origin <nome-da-branch>
+
+
+
+pega as alterações do repositorio remoto e joga para nossa maquina
+--git pull 
+--git pull origin <nome-da-branch>
+
+
+atualiza o nosso historico local de acordo com o historico salvo no repositorio
+--git fetch
+
+
+clona um repositorio
+--git clone <url-do-repositorio>
+
+
+cria uma pasta com o clone dentro
+--git clone <url-do-repositorio> <nome-da-pasta>
+
+
+volta para o arquivo original, cancela as modificaçoes feitas
+git restore <nome-do-arquivo>
+
+
+
+
+
+
+
+
+
