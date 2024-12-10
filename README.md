@@ -83,3 +83,126 @@ https://google.com/
 ## imagem com link
 
 [![Texto alternativo](<https://s2-techtudo.glbimg.com/L9wb1xt7tjjL-Ocvos-Ju0tVmfc=/0x0:1200x800/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/q/l/TIdfl2SA6J16XZAy56Mw/canvaai.png>)](<https://s2-techtudo.glbimg.com/L9wb1xt7tjjL-Ocvos-Ju0tVmfc=/0x0:1200x800/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/q/l/TIdfl2SA6J16XZAy56Mw/canvaaig>)
+
+## citacao
+
+> jessica é uma programadora
+> Fé
+> No
+> Pai
+> Amem
+
+> bfhebsfdsfhsd
+> fsdfsdfsfd
+> sdfsdfsdf
+
+> <br>
+> jessica
+> <br><br>
+
+> jessica 1
+>
+> > jessica 2
+>
+> ### ==jessica== correndo
+
+<details>
+<summaty>
+Clica aqui
+</summaty>
+jessica não veio ontem, sabe la Deus pq
+</details>
+
+## separador
+
+pode ser 3 traços
+
+---
+
+ou pode ser 3 asteriscos
+
+---
+
+## checklist
+
+- [ ] Item 1
+- [ ] Item 2
+- [ ] Item 3
+- [ ] Item 4
+- [ ] Item 5
+- [ ] Item 6
+
+## tabela
+
+| nome   | idade |
+| ------ | :---: |
+| julia  |  20   |
+| carlos |  35   |
+
+| nome   | idade |
+| ------ | ----: |
+| Júlia  |    20 |
+| Carlos |    35 |
+
+## CÓDIGO
+
+Em linha usamos 1 acento grave para abrir
+o código em outro para fechar
+
+`<h1> Eu sou um titulo</h1>`
+
+<h1> Eu sou um titulo</h1>
+
+`# Eu sou um titulo`
+
+# Eu sou um titulo
+
+`console.log('Olá mundo!')`
+
+### bloco de código
+
+Usaremos 3 acentos graves para abrir,
+sguindo da liguagem que eu quero, e para fechar mais 3 acentos graves.
+
+```html
+<details>
+  <summaty> Clica aqui </summaty>
+  jessica não veio ontem, sabe la Deus pq
+</details>
+```
+
+```CSS
+
+.contrainer{
+   display:flex;
+}
+```
+
+```javascript
+
+console.log('Olá, mundo');
+
+funtion dados (dados){
+   console.log(dados);
+}
+
+```
+
+## emojis
+
+:s
+:rocket:
+:smirk:
+:elephant:
+:D
+
+```mermaid
+graph TD;
+   a-->b;
+   a-->c;
+   b-->d;
+   c-->d;
+
+```
+
+<!-- comentario -->
